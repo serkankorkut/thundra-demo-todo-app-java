@@ -29,7 +29,7 @@ jobs:
         with:
           apikey: 0b8769d1-c387-4b19-bf69-b4ca5b5c4c67
           project_id: db2eb0da-5e21-48a2-b7af-3048a582352a
-          command: mvn -B clean install
+          command: cd ndjaskmldöşas
         env:
           THUNDRA_AGENT_REPORT_REST_BASEURL: https://collector.thundra.me/v1
           THUNDRA_AGENT_BROKER_ENABLE: false
